@@ -24,7 +24,7 @@ Welcome to **pytaskii**, the Python-powered desktop twin of my web task manager.
 Honestly? I built the web version first, hosted it, used Firebase and all that jazz.
 
 👉 **Web version:** [taskii-web](https://mytaskwebapp.web.app)  
-👉 **Repo:** [pytasky](https://github.com/copy-n-paste/webtasky)
+👉 **Repo:** [webtasky](https://github.com/copy-n-paste/webtasky)
 
 But then I remembered I *actually* like Python and *dislike* HTML divs arguing about margins.
 
