@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+plyer==2.1.0
+requests==2.31.0
+tkcalendar==1.6.1 
